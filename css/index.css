@@ -224,6 +224,7 @@ body {
 #search-box {
 
     flex: 100%;
+    align-self: center;
     height: 34px;
     border: 0;
     outline: none;
